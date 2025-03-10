@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I started transition to GitLab, be sure to check my GitLab page for most up to date repos!
+https://gitlab.com/Katacc
+
 ### Who?
 Im a ICT-Engineer (Software Development) student and a hobbyist!
 While my major is Software Development, I have some knowledge and inspiration to learn more about Embedded systems and Networking aswell!
