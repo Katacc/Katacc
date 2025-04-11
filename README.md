@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 ### Who?
 Im a ICT-Engineer (Software Development) student and a hobbyist!
 While my major is Software Development, I have some knowledge and inspiration to learn more about Embedded systems and Networking aswell!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katacc)](https://github.com/anuraghazra/github-readme-stats)
-(Stats only show public repositories owned by me)
-
-[Stat tool link](https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card)
